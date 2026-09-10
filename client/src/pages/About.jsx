@@ -9,7 +9,7 @@ const About = () => {
       </div>
       
       <div style={{display: 'flex', flexDirection: 'row', gap: '3rem', flexWrap: 'wrap', alignItems: 'flex-start'}}>
-        <div style={{flex: '1 1 400px', fontSize: '1.125rem', color: '#444'}}>
+        <div style={{flex: '1 1 280px', fontSize: '1.125rem', color: '#444'}}>
           <p style={{marginBottom: '1.5rem'}}>
             I started this service for people who sometimes want company while travelling, exploring, eating, having coffee, attending events, or simply spending some time outside alone.
           </p>
